@@ -6,7 +6,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PedroKarasudani&theme=blue-green&date_format=j%20M%5B%20Y%5D&hide_border=true&card_width=763)
 
-### Tecnologias que uso atualmente:
+### Technologies currently in use:
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">          
   <img align="center" alt="Pedro-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
